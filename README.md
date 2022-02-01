@@ -1,4 +1,4 @@
-                                                          PROJETO CRIADO COM NEXTJS 😍😍😍
+                                                     PROJETO CRIADO COM NEXTJS 😍😍😍
 
 ![image](https://user-images.githubusercontent.com/95648653/151947645-3261fa3a-e278-418d-b44d-d4fa6d50dfa8.png)
 
